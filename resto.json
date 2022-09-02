@@ -1,0 +1,58 @@
+[
+  
+ - {
+   index: 0,
+   nama: "nora",
+   email: "nora@gmail.com",
+   pictures: "https://randomuser.me/api/portraits/men/0.jpg" 
+   },
+ 
+ - {
+   index: 1,
+   nama: "nora",
+   email: "nora@gmail.com",
+   pictures: "https://randomuser.me/api/portraits/men/1.jpg"    
+    },
+  
+ - {
+   index: 2,
+   nama: "nora",
+   email: "nora@gmail.com",
+   pictures: "https://randomuser.me/api/portraits/men/2.jpg" 
+   },
+  
+ - {
+   index: 3,
+   nama: "nora",
+   email: "nora@gmail.com",
+   pictures: "https://randomuser.me/api/portraits/men/3.jpg" 
+   },
+  
+ - {
+   index: 4,
+   nama: "nora",
+   email: "nora@gmail.com",
+   pictures: "https://randomuser.me/api/portraits/men/4.jpg" 
+   },
+  
+ - {
+   index: 5,
+   nama: "nora",
+   email: "nora@gmail.com",
+   pictures: "https://randomuser.me/api/portraits/men/5.jpg" 
+   },
+  
+ - {
+   index: 6,
+   nama: "nora",
+   email: "nora@gmail.com",
+   pictures: "h ttps://randomuser.me/api/portraits/men/6.jpg" 
+   },
+ 
+ - {
+   index: 7,
+   nama: "nora",
+   email: "nora@gmail.com",
+   pictures: "https://randomuser.me/api/portraits/men/7.jpg" 
+   }
+]
